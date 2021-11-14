@@ -1,15 +1,5 @@
-# Example of small contact form by using tailwindcss
+# Example of small contact form by using tailwindcss as a PostCSS Plugin
 
-# Tailwind CSS as a PostCSS Plugin
-
-A starter template for very simple projects (no frameworks) with Tailwind CSS setup as a PostCSS plugin. You only need to install NPM.
-
-Follow the Getting Started guide and build websites with Tailwind CSS. Also, follow the steps to Optimize for Production to end up with a very tiny final CSS bundle.
-
-**OR**
-
-Watch the video:
-[![Youtube Video](https://img.youtube.com/vi/8RtNO9TjPas/maxresdefault.jpg)](https://youtu.be/8RtNO9TjPas "Starter Template for Tailwind CSS 2.0 installed as a PostCSS Plugin")
 
 ## Getting Started
 
